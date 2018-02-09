@@ -1,4 +1,4 @@
-It is a game engine for creating 2D platformer, in which you can play in your browser, and do build for mobile devices
+Just start init for new game development without any anything
 =====================
 
 For run and/or build this app, your need to install Node.js and npm.
